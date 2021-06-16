@@ -1,0 +1,1256 @@
+﻿{
+    "countries": [
+        {
+            "2-letter": "AD",
+            "3-letter": "AND",
+            "Country": "Andorra"
+        },
+        {
+            "2-letter": "AE",
+            "3-letter": "ARE",
+            "Country": "United Arab Emirates"
+        },
+        {
+            "2-letter": "AF",
+            "3-letter": "AFG",
+            "Country": "Afghanistan"
+        },
+        {
+            "2-letter": "AG",
+            "3-letter": "ATG",
+            "Country": "Antigua and Barbuda"
+        },
+        {
+            "2-letter": "AI",
+            "3-letter": "AIA",
+            "Country": "Anguilla"
+        },
+        {
+            "2-letter": "AL",
+            "3-letter": "ALB",
+            "Country": "Albania"
+        },
+        {
+            "2-letter": "AM",
+            "3-letter": "ARM",
+            "Country": "Armenia"
+        },
+        {
+            "2-letter": "AN",
+            "Country": "Netherlands Antilles"
+        },
+        {
+            "2-letter": "AO",
+            "3-letter": "AGO",
+            "Country": "Angola"
+        },
+        {
+            "2-letter": "AQ",
+            "3-letter": "ATA",
+            "Country": "Antarctica"
+        },
+        {
+            "2-letter": "AR",
+            "3-letter": "ARG",
+            "Country": "Argentina"
+        },
+        {
+            "2-letter": "AS",
+            "3-letter": "ASM",
+            "Country": "American Samoa"
+        },
+        {
+            "2-letter": "AT",
+            "3-letter": "AUT",
+            "Country": "Austria"
+        },
+        {
+            "2-letter": "AU",
+            "3-letter": "AUS",
+            "Country": "Australia"
+        },
+        {
+            "2-letter": "AW",
+            "3-letter": "ABW",
+            "Country": "Aruba"
+        },
+        {
+            "2-letter": "AX",
+            "Country": "Aland Islands"
+        },
+        {
+            "2-letter": "AZ",
+            "3-letter": "AZE",
+            "Country": "Azerbaijan"
+        },
+        {
+            "2-letter": "BA",
+            "3-letter": "BIH",
+            "Country": "Bosnia and Herzegovina"
+        },
+        {
+            "2-letter": "BB",
+            "3-letter": "BRB",
+            "Country": "Barbados"
+        },
+        {
+            "2-letter": "BD",
+            "3-letter": "BGD",
+            "Country": "Bangladesh"
+        },
+        {
+            "2-letter": "BE",
+            "3-letter": "BEL",
+            "Country": "Belgium"
+        },
+        {
+            "2-letter": "BF",
+            "3-letter": "BFA",
+            "Country": "Burkina Faso"
+        },
+        {
+            "2-letter": "BG",
+            "3-letter": "BGR",
+            "Country": "Bulgaria"
+        },
+        {
+            "2-letter": "BH",
+            "3-letter": "BHR",
+            "Country": "Bahrain"
+        },
+        {
+            "2-letter": "BI",
+            "3-letter": "BDI",
+            "Country": "Burundi"
+        },
+        {
+            "2-letter": "BJ",
+            "3-letter": "BEN",
+            "Country": "Benin"
+        },
+        {
+            "2-letter": "BL",
+            "3-letter": "BLM",
+            "Country": "Saint Barthelemy"
+        },
+        {
+            "2-letter": "BM",
+            "3-letter": "BMU",
+            "Country": "Bermuda"
+        },
+        {
+            "2-letter": "BN",
+            "3-letter": "BRN",
+            "Country": "Brunei Darussalam"
+        },
+        {
+            "2-letter": "BO",
+            "3-letter": "BOL",
+            "Country": "Bolivia"
+        },
+        {
+            "2-letter": "BQ",
+            "3-letter": "BES",
+            "Country": "Bonaire St. Eustatius"
+        },
+        {
+            "2-letter": "BR",
+            "3-letter": "BRA",
+            "Country": "Brazil"
+        },
+        {
+            "2-letter": "BS",
+            "3-letter": "BHS",
+            "Country": "Bahamas"
+        },
+        {
+            "2-letter": "BT",
+            "3-letter": "BTN",
+            "Country": "Bhutan"
+        },
+        {
+            "2-letter": "BV",
+            "3-letter": "BVT",
+            "Country": "Bouvet Island"
+        },
+        {
+            "2-letter": "BW",
+            "3-letter": "BWA",
+            "Country": "Botswana"
+        },
+        {
+            "2-letter": "BY",
+            "3-letter": "BLR",
+            "Country": "Belarus"
+        },
+        {
+            "2-letter": "BZ",
+            "3-letter": "BLZ",
+            "Country": "Belize"
+        },
+        {
+            "2-letter": "CA",
+            "3-letter": "CAN",
+            "Country": "Canada"
+        },
+        {
+            "2-letter": "CC",
+            "3-letter": "CCK",
+            "Country": "Cocos (Keeling) Islands"
+        },
+        {
+            "2-letter": "CD",
+            "3-letter": "COD",
+            "Country": "Congo"
+        },
+        {
+            "2-letter": "CF",
+            "3-letter": "CAF",
+            "Country": "Central African Republic"
+        },
+        {
+            "2-letter": "CG",
+            "3-letter": "COG",
+            "Country": "Congo"
+        },
+        {
+            "2-letter": "CH",
+            "3-letter": "CHE",
+            "Country": "Switzerland"
+        },
+        {
+            "2-letter": "CI",
+            "3-letter": "CIV",
+            "Country": "Cote D'Ivoire (Ivory Coast)"
+        },
+        {
+            "2-letter": "CK",
+            "3-letter": "COK",
+            "Country": "Cook Islands"
+        },
+        {
+            "2-letter": "CL",
+            "3-letter": "CHL",
+            "Country": "Chile"
+        },
+        {
+            "2-letter": "CM",
+            "3-letter": "CMR",
+            "Country": "Cameroon"
+        },
+        {
+            "2-letter": "CN",
+            "3-letter": "CHN",
+            "Country": "China"
+        },
+        {
+            "2-letter": "CO",
+            "3-letter": "COL",
+            "Country": "Colombia"
+        },
+        {
+            "2-letter": "CR",
+            "3-letter": "CRI",
+            "Country": "Costa Rica"
+        },
+        {
+            "2-letter": "CU",
+            "3-letter": "CUB",
+            "Country": "Cuba"
+        },
+        {
+            "2-letter": "CV",
+            "3-letter": "CPV",
+            "Country": "Cape Verde"
+        },
+        {
+            "2-letter": "CW",
+            "3-letter": "CUW",
+            "Country": "Curacao"
+        },
+        {
+            "2-letter": "CX",
+            "3-letter": "CXR",
+            "Country": "Christmas Island"
+        },
+        {
+            "2-letter": "CY",
+            "3-letter": "CYP",
+            "Country": "Cyprus"
+        },
+        {
+            "2-letter": "CZ",
+            "3-letter": "CZE",
+            "Country": "Czech Republic"
+        },
+        {
+            "2-letter": "DE",
+            "3-letter": "DEU",
+            "Country": "Germany"
+        },
+        {
+            "2-letter": "DJ",
+            "3-letter": "DJI",
+            "Country": "Djibouti"
+        },
+        {
+            "2-letter": "DK",
+            "3-letter": "DNK",
+            "Country": "Denmark"
+        },
+        {
+            "2-letter": "DM",
+            "3-letter": "DMA",
+            "Country": "Dominica"
+        },
+        {
+            "2-letter": "DO",
+            "3-letter": "DOM",
+            "Country": "Dominican Republic"
+        },
+        {
+            "2-letter": "DZ",
+            "3-letter": "DZA",
+            "Country": "Algeria"
+        },
+        {
+            "2-letter": "EC",
+            "3-letter": "ECU",
+            "Country": "Ecuador"
+        },
+        {
+            "2-letter": "EE",
+            "3-letter": "EST",
+            "Country": "Estonia"
+        },
+        {
+            "2-letter": "EG",
+            "3-letter": "EGY",
+            "Country": "Egypt"
+        },
+        {
+            "2-letter": "EH",
+            "3-letter": "ESH",
+            "Country": "Western Sahara"
+        },
+        {
+            "2-letter": "ER",
+            "3-letter": "ERI",
+            "Country": "Eritrea"
+        },
+        {
+            "2-letter": "ES",
+            "3-letter": "ESP",
+            "Country": "Spain"
+        },
+        {
+            "2-letter": "ET",
+            "3-letter": "ETH",
+            "Country": "Ethiopia"
+        },
+        {
+            "2-letter": "FI",
+            "3-letter": "FIN",
+            "Country": "Finland"
+        },
+        {
+            "2-letter": "FJ",
+            "3-letter": "FJI",
+            "Country": "Fiji"
+        },
+        {
+            "2-letter": "FK",
+            "3-letter": "FLK",
+            "Country": "Falkland Islands (Malvinas)"
+        },
+        {
+            "2-letter": "FM",
+            "3-letter": "FSM",
+            "Country": "Micronesia"
+        },
+        {
+            "2-letter": "FO",
+            "3-letter": "FRO",
+            "Country": "Faroe Islands"
+        },
+        {
+            "2-letter": "FR",
+            "3-letter": "FRA",
+            "Country": "France"
+        },
+        {
+            "2-letter": "GA",
+            "3-letter": "GAB",
+            "Country": "Gabon"
+        },
+        {
+            "2-letter": "GB",
+            "3-letter": "GBR",
+            "Country": "Great Britain (UK)"
+        },
+        {
+            "2-letter": "GD",
+            "3-letter": "GRD",
+            "Country": "Grenada"
+        },
+        {
+            "2-letter": "GE",
+            "3-letter": "GEO",
+            "Country": "Georgia"
+        },
+        {
+            "2-letter": "GF",
+            "3-letter": "GUF",
+            "Country": "French Guiana"
+        },
+        {
+            "2-letter": "GG",
+            "3-letter": "GGY",
+            "Country": "Guernsey"
+        },
+        {
+            "2-letter": "GH",
+            "3-letter": "GHA",
+            "Country": "Ghana"
+        },
+        {
+            "2-letter": "GI",
+            "3-letter": "GIB",
+            "Country": "Gibraltar"
+        },
+        {
+            "2-letter": "GL",
+            "3-letter": "GRL",
+            "Country": "Greenland"
+        },
+        {
+            "2-letter": "GM",
+            "3-letter": "GMB",
+            "Country": "Gambia"
+        },
+        {
+            "2-letter": "GN",
+            "3-letter": "GIN",
+            "Country": "Guinea"
+        },
+        {
+            "2-letter": "GP",
+            "3-letter": "GLP",
+            "Country": "Guadeloupe"
+        },
+        {
+            "2-letter": "GQ",
+            "3-letter": "GNQ",
+            "Country": "Equatorial Guinea"
+        },
+        {
+            "2-letter": "GR",
+            "3-letter": "GRC",
+            "Country": "Greece"
+        },
+        {
+            "2-letter": "GS",
+            "3-letter": "SGS",
+            "Country": "S. Georgia and S. Sandwich Isls."
+        },
+        {
+            "2-letter": "GT",
+            "3-letter": "GTM",
+            "Country": "Guatemala"
+        },
+        {
+            "2-letter": "GU",
+            "3-letter": "GUM",
+            "Country": "Guam"
+        },
+        {
+            "2-letter": "GW",
+            "3-letter": "GNB",
+            "Country": "Guinea-Bissau"
+        },
+        {
+            "2-letter": "GY",
+            "3-letter": "GUY",
+            "Country": "Guyana"
+        },
+        {
+            "2-letter": "HK",
+            "3-letter": "HKG",
+            "Country": "Hong Kong"
+        },
+        {
+            "2-letter": "HM",
+            "3-letter": "HMD",
+            "Country": "Heard and McDonald Islands"
+        },
+        {
+            "2-letter": "HN",
+            "3-letter": "HND",
+            "Country": "Honduras"
+        },
+        {
+            "2-letter": "HR",
+            "3-letter": "HRV",
+            "Country": "Croatia (Hrvatska)"
+        },
+        {
+            "2-letter": "HT",
+            "3-letter": "HTI",
+            "Country": "Haiti"
+        },
+        {
+            "2-letter": "HU",
+            "3-letter": "HUN",
+            "Country": "Hungary"
+        },
+        {
+            "2-letter": "ID",
+            "3-letter": "IDN",
+            "Country": "Indonesia"
+        },
+        {
+            "2-letter": "IE",
+            "3-letter": "IRL",
+            "Country": "Ireland"
+        },
+        {
+            "2-letter": "IL",
+            "3-letter": "ISR",
+            "Country": "Israel"
+        },
+        {
+            "2-letter": "IM",
+            "3-letter": "IMN",
+            "Country": "Isle of Man"
+        },
+        {
+            "2-letter": "IN",
+            "3-letter": "IND",
+            "Country": "India"
+        },
+        {
+            "2-letter": "IO",
+            "3-letter": "IOT",
+            "Country": "British Indian Ocean Territory"
+        },
+        {
+            "2-letter": "IQ",
+            "3-letter": "IRQ",
+            "Country": "Iraq"
+        },
+        {
+            "2-letter": "IR",
+            "3-letter": "IRN",
+            "Country": "Iran"
+        },
+        {
+            "2-letter": "IS",
+            "3-letter": "ISL",
+            "Country": "Iceland"
+        },
+        {
+            "2-letter": "IT",
+            "3-letter": "ITA",
+            "Country": "Italy"
+        },
+        {
+            "2-letter": "JE",
+            "3-letter": "JEY",
+            "Country": "Jersey"
+        },
+        {
+            "2-letter": "JM",
+            "3-letter": "JAM",
+            "Country": "Jamaica"
+        },
+        {
+            "2-letter": "JO",
+            "3-letter": "JOR",
+            "Country": "Jordan"
+        },
+        {
+            "2-letter": "JP",
+            "3-letter": "JPN",
+            "Country": "Japan"
+        },
+        {
+            "2-letter": "KE",
+            "3-letter": "KEN",
+            "Country": "Kenya"
+        },
+        {
+            "2-letter": "KG",
+            "3-letter": "KGZ",
+            "Country": "Kyrgyzstan"
+        },
+        {
+            "2-letter": "KH",
+            "3-letter": "KHM",
+            "Country": "Cambodia"
+        },
+        {
+            "2-letter": "KI",
+            "3-letter": "KIR",
+            "Country": "Kiribati"
+        },
+        {
+            "2-letter": "KM",
+            "3-letter": "COM",
+            "Country": "Comoros"
+        },
+        {
+            "2-letter": "KN",
+            "3-letter": "KNA",
+            "Country": "Saint Kitts and Nevis"
+        },
+        {
+            "2-letter": "KP",
+            "3-letter": "PRK",
+            "Country": "Korea (North)"
+        },
+        {
+            "2-letter": "KR",
+            "3-letter": "KOR",
+            "Country": "Korea (South)"
+        },
+        {
+            "2-letter": "KW",
+            "3-letter": "KWT",
+            "Country": "Kuwait"
+        },
+        {
+            "2-letter": "KY",
+            "3-letter": "CYM",
+            "Country": "Cayman Islands"
+        },
+        {
+            "2-letter": "KZ",
+            "3-letter": "KAZ",
+            "Country": "Kazakhstan"
+        },
+        {
+            "2-letter": "LA",
+            "3-letter": "LAO",
+            "Country": "Laos"
+        },
+        {
+            "2-letter": "LB",
+            "3-letter": "LBN",
+            "Country": "Lebanon"
+        },
+        {
+            "2-letter": "LC",
+            "3-letter": "LCA",
+            "Country": "Saint Lucia"
+        },
+        {
+            "2-letter": "LI",
+            "3-letter": "LIE",
+            "Country": "Liechtenstein"
+        },
+        {
+            "2-letter": "LK",
+            "3-letter": "LKA",
+            "Country": "Sri Lanka"
+        },
+        {
+            "2-letter": "LR",
+            "3-letter": "LBR",
+            "Country": "Liberia"
+        },
+        {
+            "2-letter": "LS",
+            "3-letter": "LSO",
+            "Country": "Lesotho"
+        },
+        {
+            "2-letter": "LT",
+            "3-letter": "LTU",
+            "Country": "Lithuania"
+        },
+        {
+            "2-letter": "LU",
+            "3-letter": "LUX",
+            "Country": "Luxembourg"
+        },
+        {
+            "2-letter": "LV",
+            "3-letter": "LVA",
+            "Country": "Latvia"
+        },
+        {
+            "2-letter": "LY",
+            "3-letter": "LBY",
+            "Country": "Libya"
+        },
+        {
+            "2-letter": "MA",
+            "3-letter": "MAR",
+            "Country": "Morocco"
+        },
+        {
+            "2-letter": "MC",
+            "3-letter": "MCO",
+            "Country": "Monaco"
+        },
+        {
+            "2-letter": "MD",
+            "3-letter": "MDA",
+            "Country": "Moldova"
+        },
+        {
+            "2-letter": "ME",
+            "3-letter": "MNE",
+            "Country": "Montenegro"
+        },
+        {
+            "2-letter": "MF",
+            "3-letter": "MAF",
+            "Country": "Saint Martin"
+        },
+        {
+            "2-letter": "MG",
+            "3-letter": "MDG",
+            "Country": "Madagascar"
+        },
+        {
+            "2-letter": "MH",
+            "3-letter": "MHL",
+            "Country": "Marshall Islands"
+        },
+        {
+            "2-letter": "MK",
+            "3-letter": "MKD",
+            "Country": "F.Y.R.O.M. (Macedonia)"
+        },
+        {
+            "2-letter": "ML",
+            "3-letter": "MLI",
+            "Country": "Mali"
+        },
+        {
+            "2-letter": "MM",
+            "3-letter": "MMR",
+            "Country": "Myanmar"
+        },
+        {
+            "2-letter": "MN",
+            "3-letter": "MNG",
+            "Country": "Mongolia"
+        },
+        {
+            "2-letter": "MO",
+            "3-letter": "MAC",
+            "Country": "Macau"
+        },
+        {
+            "2-letter": "MP",
+            "3-letter": "MNP",
+            "Country": "Northern Mariana Islands"
+        },
+        {
+            "2-letter": "MQ",
+            "3-letter": "MTQ",
+            "Country": "Martinique"
+        },
+        {
+            "2-letter": "MR",
+            "3-letter": "MRT",
+            "Country": "Mauritania"
+        },
+        {
+            "2-letter": "MS",
+            "3-letter": "MSR",
+            "Country": "Montserrat"
+        },
+        {
+            "2-letter": "MT",
+            "3-letter": "MLT",
+            "Country": "Malta"
+        },
+        {
+            "2-letter": "MU",
+            "3-letter": "MUS",
+            "Country": "Mauritius"
+        },
+        {
+            "2-letter": "MV",
+            "3-letter": "MDV",
+            "Country": "Maldives"
+        },
+        {
+            "2-letter": "MW",
+            "3-letter": "MWI",
+            "Country": "Malawi"
+        },
+        {
+            "2-letter": "MX",
+            "3-letter": "MEX",
+            "Country": "Mexico"
+        },
+        {
+            "2-letter": "MY",
+            "3-letter": "MYS",
+            "Country": "Malaysia"
+        },
+        {
+            "2-letter": "MZ",
+            "3-letter": "MOZ",
+            "Country": "Mozambique"
+        },
+        {
+            "2-letter": "NA",
+            "3-letter": "NAM",
+            "Country": "Namibia"
+        },
+        {
+            "2-letter": "NC",
+            "3-letter": "NCL",
+            "Country": "New Caledonia"
+        },
+        {
+            "2-letter": "NE",
+            "3-letter": "NER",
+            "Country": "Niger"
+        },
+        {
+            "2-letter": "NF",
+            "3-letter": "NFK",
+            "Country": "Norfolk Island"
+        },
+        {
+            "2-letter": "NG",
+            "3-letter": "NGA",
+            "Country": "Nigeria"
+        },
+        {
+            "2-letter": "NI",
+            "3-letter": "NIC",
+            "Country": "Nicaragua"
+        },
+        {
+            "2-letter": "NL",
+            "3-letter": "NLD",
+            "Country": "Netherlands"
+        },
+        {
+            "2-letter": "NO",
+            "3-letter": "NOR",
+            "Country": "Norway"
+        },
+        {
+            "2-letter": "NP",
+            "3-letter": "NPL",
+            "Country": "Nepal"
+        },
+        {
+            "2-letter": "NR",
+            "3-letter": "NRU",
+            "Country": "Nauru"
+        },
+        {
+            "2-letter": "NU",
+            "3-letter": "NIU",
+            "Country": "Niue"
+        },
+        {
+            "2-letter": "NZ",
+            "3-letter": "NZL",
+            "Country": "New Zealand (Aotearoa)"
+        },
+        {
+            "2-letter": "OM",
+            "3-letter": "OMN",
+            "Country": "Oman"
+        },
+        {
+            "2-letter": "PA",
+            "3-letter": "PAN",
+            "Country": "Panama"
+        },
+        {
+            "2-letter": "PE",
+            "3-letter": "PER",
+            "Country": "Peru"
+        },
+        {
+            "2-letter": "PF",
+            "3-letter": "PYF",
+            "Country": "French Polynesia"
+        },
+        {
+            "2-letter": "PG",
+            "3-letter": "PNG",
+            "Country": "Papua New Guinea"
+        },
+        {
+            "2-letter": "PH",
+            "3-letter": "PHL",
+            "Country": "Philippines"
+        },
+        {
+            "2-letter": "PK",
+            "3-letter": "PAK",
+            "Country": "Pakistan"
+        },
+        {
+            "2-letter": "PL",
+            "3-letter": "POL",
+            "Country": "Poland"
+        },
+        {
+            "2-letter": "PM",
+            "3-letter": "SPM",
+            "Country": "St. Pierre and Miquelon"
+        },
+        {
+            "2-letter": "PN",
+            "3-letter": "PCN",
+            "Country": "Pitcairn"
+        },
+        {
+            "2-letter": "PR",
+            "3-letter": "PRI",
+            "Country": "Puerto Rico"
+        },
+        {
+            "2-letter": "PS",
+            "3-letter": "PSE",
+            "Country": "Palestinian Territory, Occupied"
+        },
+        {
+            "2-letter": "PT",
+            "3-letter": "PRT",
+            "Country": "Portugal"
+        },
+        {
+            "2-letter": "PW",
+            "3-letter": "PLW",
+            "Country": "Palau"
+        },
+        {
+            "2-letter": "PY",
+            "3-letter": "PRY",
+            "Country": "Paraguay"
+        },
+        {
+            "2-letter": "QA",
+            "3-letter": "QAT",
+            "Country": "Qatar"
+        },
+        {
+            "2-letter": "RE",
+            "3-letter": "REU",
+            "Country": "Reunion"
+        },
+        {
+            "2-letter": "RO",
+            "3-letter": "ROU",
+            "Country": "Romania"
+        },
+        {
+            "2-letter": "RS",
+            "3-letter": "SRB",
+            "Country": "Serbia"
+        },
+        {
+            "2-letter": "RU",
+            "3-letter": "RUS",
+            "Country": "Russian Federation"
+        },
+        {
+            "2-letter": "RW",
+            "3-letter": "RWA",
+            "Country": "Rwanda"
+        },
+        {
+            "2-letter": "SA",
+            "3-letter": "SAU",
+            "Country": "Saudi Arabia"
+        },
+        {
+            "2-letter": "SB",
+            "3-letter": "SLB",
+            "Country": "Solomon Islands"
+        },
+        {
+            "2-letter": "SC",
+            "3-letter": "SYC",
+            "Country": "Seychelles"
+        },
+        {
+            "2-letter": "SD",
+            "3-letter": "SDN",
+            "Country": "Sudan"
+        },
+        {
+            "2-letter": "SE",
+            "3-letter": "SWE",
+            "Country": "Sweden"
+        },
+        {
+            "2-letter": "SG",
+            "3-letter": "SGP",
+            "Country": "Singapore"
+        },
+        {
+            "2-letter": "SH",
+            "3-letter": "SHN",
+            "Country": "St. Helena Island"
+        },
+        {
+            "2-letter": "SI",
+            "3-letter": "SVN",
+            "Country": "Slovenia"
+        },
+        {
+            "2-letter": "SJ",
+            "3-letter": "SJM",
+            "Country": "Svalbard and Jan Mayen"
+        },
+        {
+            "2-letter": "SK",
+            "3-letter": "SVK",
+            "Country": "Slovakia"
+        },
+        {
+            "2-letter": "SL",
+            "3-letter": "SLE",
+            "Country": "Sierra Leone"
+        },
+        {
+            "2-letter": "SM",
+            "3-letter": "SMR",
+            "Country": "San Marino"
+        },
+        {
+            "2-letter": "SN",
+            "3-letter": "SEN",
+            "Country": "Senegal"
+        },
+        {
+            "2-letter": "SO",
+            "3-letter": "SOM",
+            "Country": "Somalia"
+        },
+        {
+            "2-letter": "SR",
+            "3-letter": "SUR",
+            "Country": "Suriname"
+        },
+        {
+            "2-letter": "SS",
+            "3-letter": "SSD",
+            "Country": "South Sudan"
+        },
+        {
+            "2-letter": "ST",
+            "3-letter": "STP",
+            "Country": "Sao Tome and Principe"
+        },
+        {
+            "2-letter": "SV",
+            "3-letter": "SLV",
+            "Country": "El Salvador"
+        },
+        {
+            "2-letter": "SX",
+            "3-letter": "SXM",
+            "Country": "Sint Maarten"
+        },
+        {
+            "2-letter": "SY",
+            "3-letter": "SYR",
+            "Country": "Syrian"
+        },
+        {
+            "2-letter": "SZ",
+            "3-letter": "SWZ",
+            "Country": "Swaziland"
+        },
+        {
+            "2-letter": "TC",
+            "3-letter": "TCA",
+            "Country": "Turks and Caicos Islands"
+        },
+        {
+            "2-letter": "TD",
+            "3-letter": "TCD",
+            "Country": "Chad"
+        },
+        {
+            "2-letter": "TF",
+            "3-letter": "ATF",
+            "Country": "French Southern Territories"
+        },
+        {
+            "2-letter": "TG",
+            "3-letter": "TGO",
+            "Country": "TOGO"
+        },
+        {
+            "2-letter": "TH",
+            "3-letter": "THA",
+            "Country": "Thailand"
+        },
+        {
+            "2-letter": "TJ",
+            "3-letter": "TJK",
+            "Country": "Tajikistan"
+        },
+        {
+            "2-letter": "TK",
+            "3-letter": "TKL",
+            "Country": "Tokelau"
+        },
+        {
+            "2-letter": "TL",
+            "3-letter": "TLS",
+            "Country": "Timor-Leste"
+        },
+        {
+            "2-letter": "TM",
+            "3-letter": "TKM",
+            "Country": "Turkmenistan"
+        },
+        {
+            "2-letter": "TN",
+            "3-letter": "TUN",
+            "Country": "Tunisia"
+        },
+        {
+            "2-letter": "TO",
+            "3-letter": "TON",
+            "Country": "Tonga"
+        },
+        {
+            "2-letter": "TR",
+            "3-letter": "TUR",
+            "Country": "Turkey"
+        },
+        {
+            "2-letter": "TT",
+            "3-letter": "TTO",
+            "Country": "Trinidad and Tobago"
+        },
+        {
+            "2-letter": "TV",
+            "3-letter": "TUV",
+            "Country": "Tuvalu"
+        },
+        {
+            "2-letter": "TW",
+            "3-letter": "TWN",
+            "Country": "Taiwan"
+        },
+        {
+            "2-letter": "TZ",
+            "3-letter": "TZA",
+            "Country": "Tanzania-United Republic"
+        },
+        {
+            "2-letter": "UA",
+            "3-letter": "UKR",
+            "Country": "Ukraine"
+        },
+        {
+            "2-letter": "UG",
+            "3-letter": "UGA",
+            "Country": "Uganda"
+        },
+        {
+            "2-letter": "UM",
+            "3-letter": "UMI",
+            "Country": "Midway Islands"
+        },
+        {
+            "2-letter": "US",
+            "3-letter": "USA",
+            "Country": "United States"
+        },
+        {
+            "2-letter": "UY",
+            "3-letter": "URY",
+            "Country": "Uruguay"
+        },
+        {
+            "2-letter": "UZ",
+            "3-letter": "UZB",
+            "Country": "Uzbekistan"
+        },
+        {
+            "2-letter": "VA",
+            "3-letter": "VAT",
+            "Country": "Vatican"
+        },
+        {
+            "2-letter": "VC",
+            "3-letter": "VCT",
+            "Country": "Vincent"
+        },
+        {
+            "2-letter": "VE",
+            "3-letter": "VEN",
+            "Country": "Venezuela"
+        },
+        {
+            "2-letter": "VG",
+            "3-letter": "VGB",
+            "Country": "Virgin Islands-British"
+        },
+        {
+            "2-letter": "VI",
+            "3-letter": "VIR",
+            "Country": "Virgin Islands-US"
+        },
+        {
+            "2-letter": "VN",
+            "3-letter": "VNM",
+            "Country": "Vietnam"
+        },
+        {
+            "2-letter": "VU",
+            "3-letter": "VUT",
+            "Country": "Vanuatu"
+        },
+        {
+            "2-letter": "WF",
+            "3-letter": "WLF",
+            "Country": "Wallis and Futuna Islands"
+        },
+        {
+            "2-letter": "WS",
+            "3-letter": "WSM",
+            "Country": "Samoa"
+        },
+        {
+            "2-letter": "XC",
+            "Country": "Crimea"
+        },
+        {
+            "2-letter": "YE",
+            "3-letter": "YEM",
+            "Country": "Yemen"
+        },
+        {
+            "2-letter": "YT",
+            "3-letter": "MYT",
+            "Country": "Mayotte"
+        },
+        {
+            "2-letter": "ZA",
+            "3-letter": "ZAF",
+            "Country": "South Africa"
+        },
+        {
+            "2-letter": "ZM",
+            "3-letter": "ZMB",
+            "Country": "Zambia"
+        },
+        {
+            "2-letter": "ZW",
+            "3-letter": "ZWE",
+            "Country": "Zimbabwe"
+        }
+    ]
+}
